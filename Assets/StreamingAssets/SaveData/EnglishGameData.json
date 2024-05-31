@@ -1,0 +1,96 @@
+{
+    "isEnglish": true,
+    "Title": "English Game Data",
+    "englishAudioClips": [
+        {
+            "audioClip": {
+                "instanceID": 23338
+            },
+            "audioName": "EBall",
+            "startTime": 3.12,
+            "endTime": 6.24
+        },
+        {
+            "audioClip": {
+                "instanceID": 23340
+            },
+            "audioName": "ETree",
+            "startTime": 15.69,
+            "endTime": 18.81
+        },
+        {
+            "audioClip": {
+                "instanceID": 23342
+            },
+            "audioName": "EFish",
+            "startTime": 29.4,
+            "endTime": 33.1
+        },
+        {
+            "audioClip": {
+                "instanceID": 23344
+            },
+            "audioName": "ECrow",
+            "startTime": 49.51667,
+            "endTime": 53.21667
+        },
+        {
+            "audioClip": {
+                "instanceID": 23346
+            },
+            "audioName": "EMoon",
+            "startTime": 65.5333,
+            "endTime": 68.65333
+        }
+    ],
+    "englishSignalsOfTime": [
+        {
+            "time": 3.12,
+            "signalName": "Puse"
+        },
+        {
+            "time": 6.24,
+            "signalName": "Puse"
+        },
+        {
+            "time": 10.76267,
+            "signalName": "NextQuestionSignal"
+        },
+        {
+            "time": 18.81,
+            "signalName": "Puse"
+        },
+        {
+            "time": 23.51267,
+            "signalName": "NextQuestionSignal"
+        },
+        {
+            "time": 33.1,
+            "signalName": "Puse"
+        },
+        {
+            "time": 38.9,
+            "signalName": "NextQuestionSignal"
+        },
+        {
+            "time": 53.21667,
+            "signalName": "Puse"
+        },
+        {
+            "time": 57.56267,
+            "signalName": "NextQuestionSignal"
+        },
+        {
+            "time": 68.65333,
+            "signalName": "Puse"
+        },
+        {
+            "time": 72.92933,
+            "signalName": "NextQuestionSignal"
+        },
+        {
+            "time": 80.08333,
+            "signalName": "End"
+        }
+    ]
+}

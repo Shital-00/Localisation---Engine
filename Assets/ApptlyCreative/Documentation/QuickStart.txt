@@ -1,0 +1,20 @@
+Apptly Creative - Localisation - V1.00
+
+Quickstart Guide
+
+Please check out the example project starting from "ExampleLanguagePicker" scene for a full sample of how to use this package.
+
+1. Create a game object called "LocalisationManager" and add the "LocalisationManager" component
+2. Drag and drop json or string files on to localisation manager to add to list
+3. Open 'Window -> Apptly Creative -> Localisation Editor' to check the files work or to create new files
+4. Add "Localise Object" components where applicable to localise text, images, etc.
+
+You can also write code to access localised strings, example:
+
+LocalisationManager.instance.GetLocalisedValue("enter the key here");
+
+For more indepth information, please take a look at the project within the example folder or watch our quickstart youtube video.
+
+Thank you for your purchase :)
+
+Apptly Creative Team
